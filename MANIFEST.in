@@ -1,0 +1,2 @@
+recursive-include rp2040down/tools/win *
+recursive-include rp2040down/tools/mac * 
